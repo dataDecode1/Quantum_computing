@@ -4,7 +4,7 @@
 
 - Explain quantum to child, teen, college student, grad, professional - https://www.youtube.com/watch?time_continue=200&v=OWJCfOvochA&feature=emb_logo
 
-- Normal computers / supercomputer can run out of space when solving compley problems. Quantum comouter can solve the storage problem. Quantum can be used to Simulate chemical bondings like Simulating nature / modelligng atomic bond.  Can aslo be used for ML problems. 
+- Normal computers / supercomputer can run out of space when solving compley problems. Quantum comouter can solve the storage problem. Quantum can be used to Simulate chemical bondings like Simulating nature / modelligng atomic bond.  Can aslo be used for ML problems. Rigorous research conducted by IBM experts has demonstrated foundational elements for applications in chemistry, optimization and machine learning. More than 90,000 users have run more than four million experiments on IBM Q devices and 110 research papers have been written by non-IBMers based on these experiments.
 
 - IBM Q devices are accessed and used with Qiskit, a python-based programming framework that is open, fully modular and doesn’t require a new programming language. Users can accelerate quantum expertise with the IBM Q Experience, which offers tutorials and a graphical user interface for programming IBM Q devices. 
 
