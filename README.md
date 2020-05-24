@@ -6,7 +6,7 @@
 
 - Normal computers / supercomputer can run out of space when solving compley problems. Quantum comouter can solve the storage problem. Quantum can be used to Simulate chemical bondings like Simulating nature / modelligng atomic bond.  Can aslo be used for ML problems. 
 
-- For programmers, assembly language is used currently. But, this will change to high level languages later.
+- IBM Q devices are accessed and used with Qiskit, a python-based programming framework that is open, fully modular and doesn’t require a new programming language. Users can accelerate quantum expertise with the IBM Q Experience, which offers tutorials and a graphical user interface for programming IBM Q devices. 
 
 - As we need fridgers, cooling systems to cool down entaglements in quantum comouter, most probably tough to have this sytem at home. But, we can access quantum computer through cloud.
 
