@@ -28,8 +28,8 @@
   - Experiment with algorithms using Qiskit Aqua / https://quantum-computing.ibm.com/, an element of Qiskit that allows classical computer applications to interface with quantum computers, over the cloud. Developers can use pre-built algorithms or create their own with Aqua.
   
   # Other resources
-  https://www.ibm.com/quantum-computing/
-  IBM Q Creators - IBhttps://www.youtube.com/watch?v=YNA_JBX-t_4&feature=emb_logo
-  https://www.youtube.com/watch?v=9q-qoeqVVD0
+  - https://www.ibm.com/quantum-computing/
+  - IBM Q Creators - IBhttps://www.youtube.com/watch?v=YNA_JBX-t_4&feature=emb_logo
+  - Charles Bennett – A Founder of Quantum Information Theory - https://www.youtube.com/watch?v=9q-qoeqVVD0
   
 
