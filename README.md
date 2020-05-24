@@ -26,4 +26,10 @@
   - Try running simple programs on real quantum hardware or simulators through the https://quantum-computing.ibm.com/. Sign up, set up an API token and experiment with the quantum computing graphic user interface.
   - Try reproducing some of the Hello World examples in the Qhttps://github.com/Qiskit/
   - Experiment with algorithms using Qiskit Aqua / https://quantum-computing.ibm.com/, an element of Qiskit that allows classical computer applications to interface with quantum computers, over the cloud. Developers can use pre-built algorithms or create their own with Aqua.
+  
+  # Other resources
+  https://www.ibm.com/quantum-computing/
+  IBM Q Creators - IBhttps://www.youtube.com/watch?v=YNA_JBX-t_4&feature=emb_logo
+  https://www.youtube.com/watch?v=9q-qoeqVVD0
+  
 
