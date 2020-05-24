@@ -14,6 +14,8 @@
 
 # Hands on 
 
+- https://quantumcomputing.stackexchange.com/questions/tagged/qiskit
+
 - Beginners: 
   - Explore beginner and advanced quantum computing user guides and tutorials, which are available free of charge on the https://quantum-computing.ibm.com/. 
   - Learn the basics from http://helloquantum.mybluemix.net/ , a puzzle game available for Apple and Android devices designed to teach introductory principles of quantum computing.
