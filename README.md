@@ -30,6 +30,7 @@
   # Other resources
   - https://www.ibm.com/quantum-computing/
   - IBM Q Creators from YT(york town) IBM Research labs - IBhttps://www.youtube.com/watch?v=YNA_JBX-t_4&feature=emb_logo
+  - Blogs - https://www.ibm.com/blogs/research/category/quantcomp/
   - Charles Bennett – A Founder of Quantum Information Theory - https://www.youtube.com/watch?v=9q-qoeqVVD0
   
 
